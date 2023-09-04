@@ -1,0 +1,42 @@
+main{
+  text-align: center;
+}
+main .Head{
+ font-size: 64px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main .join{
+  font-weight: bold;
+  font-size: 31px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main button{
+  font-weight: bold;
+  font-size: 15px;
+  margin: 5px;
+  padding: 10px 70px;
+  border-radius: 20px;
+  border: 0.3px solid rgba(27, 192, 156, 0.432); background-color:transparent;
+}
+section .apple{
+  padding: 10px 75px;
+}
+main .create{
+  padding: 10px 80px;
+  color: #FFFFFF;
+  font-size: 15px;
+  background-color:#1D9BF0;
+}
+section .line{
+  display: flex;
+  justify-content: center;
+  margin: 2px;
+
+line-height: 3px;
+  width: 260px;
+ 
+}
+section .Signin{
+  padding:10px 110px ;
+  color:#1D9BF0;
+}
